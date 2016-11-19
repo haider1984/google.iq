@@ -21,11 +21,11 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 ************************************************************
 ورأهأَ خلي👇🏿
 **************
-git clone https://github.com/haider1984/-1.git
+https://github.com/haider1984/google.iq.git
 *****************************************************
 ورهأ خلي 👇🏿 And vinegary
 **************************
-cd ASD_KARBALA
+cd haider1984
 **************************
 ورهأَ خلي👇🏿 And vinegary
 **************************
@@ -87,9 +87,9 @@ Open ./data/config.lua and add your ID to the "sudo_users" section in the follow
 ```
 😘 مـبروَك أصبَحتـَ مـطورَ بوـتكَ لتوأصل معي 
 
-#Dev : [https://telegram.me/ASDFRTQ)
-#Dev_BOT :  [https://telegram.me/ASDFRTQ)
-#Dev_Channel :  [https://telegram.me/ASDFRTQ)
+#: [https://telegram.me/ASDFRTQ)
+#BOT :https://telegram.me/ASDFRTQ
+#Channel :https://telegram.me/ASDFRTQ)
 
 عندكَ فكره تطوير السورس او البوت تفظل هنأَ☝🏿️
 You have an idea to develop Alsoors or bot prefer ☝🏿️✋🏿
